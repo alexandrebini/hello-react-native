@@ -1,5 +1,20 @@
 [
-  {"id": 1, "title": "Lesson 1" },
-  {"id": 2, "title": "Lesson 2" },
-  {"id": 3, "title": "Lesson 3" }
+  {
+    "id": 1,
+    "title":"The AI Revolution: Road to Superintelligence - Wait But Why",
+    "description":"Existem 3 tipos de inteligência artificial. Nós só tivemos sucesso em",
+    "image": "https://res-1.cloudinary.com/skore-production/image/upload/c_fill,dpr_2.0,f_auto,h_123,w_226/fgwlzepll1e5audjqg05"
+  },
+  {
+    "id": 2,
+    "title":"A parada pós-aceleradora",
+    "description":"Muitas empresas perdem o momento pós-aceleração focando em \"fake work\" e abrindo mão do foco em crescimento. ",
+    "image": "https://res-1.cloudinary.com/skore-production/image/upload/c_fill,dpr_2.0,f_auto,h_123,w_226/naq5wp7r0fd0utcuztyf"
+  },
+  {
+    "id": 3,
+    "title":"HOOKED: HOW TO BUILD HABIT-FORMING PRODUCTS",
+    "description":"Trigger - Action - Reward - Investment",
+    "image": "https://res-4.cloudinary.com/skore-production/image/upload/c_fill,dpr_2.0,f_auto,h_123,w_226/u5hctxjjo1zfobjxusdx"
+   }
 ]
